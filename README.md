@@ -16,4 +16,3 @@
 * [<b>HTML, CSS, JS</b>](https://www.w3schools.com/css/default.asp) - To create UI of this webpage.
 * [<b>QR Code API</b>](https://goqr.me/api/) - To Generate QR.
 
-Please contact me at enqueries4rupendrasingh@gmail.com if you have any feedback for the webpage. :star: Star it, if you like it!
